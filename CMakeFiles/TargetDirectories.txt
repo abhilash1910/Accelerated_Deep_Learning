@@ -1,0 +1,3 @@
+/home/majumder/torch_resnet_jit/CMakeFiles/torch_resnet_jit.dir
+/home/majumder/torch_resnet_jit/CMakeFiles/edit_cache.dir
+/home/majumder/torch_resnet_jit/CMakeFiles/rebuild_cache.dir
